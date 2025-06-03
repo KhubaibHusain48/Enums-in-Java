@@ -1,5 +1,3 @@
-
-
 ---
 
 # Java Enum Example — TrafficLight
