@@ -1,3 +1,4 @@
+
 ---
 
 # Java Enum Example — TrafficLight
@@ -58,3 +59,4 @@ This project illustrates the use of **Java Enums** by modeling a traffic light s
 This project is open source for educational use.
 
 ---
+
