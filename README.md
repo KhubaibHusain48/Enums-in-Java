@@ -1,4 +1,4 @@
-Here’s a polished README content for your Java project demonstrating **Enums** with a traffic light example:
+
 
 ---
 
